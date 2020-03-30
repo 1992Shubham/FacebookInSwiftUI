@@ -1,0 +1,119 @@
+[
+    {
+        "name": "Angelina Jolie",
+        "date_of_birth": "4 June 1975",
+        "city": "Los Angeles",
+        "state": "California",
+        "id": 1001,
+        "imageName": "Angelina Jolie",
+        "description": "Angelina Jolie is an American actress, filmmaker, and humanitarian. The recipient of such accolades as an Academy Award and three Golden Globe Awards, she has been named Hollywood's highest-paid actress multiple times."
+    },
+    {
+        "name": "Emma Stone",
+        "date_of_birth": "6 November 1988",
+        "city": " Scottsdale",
+        "state": "Arizona",
+        "id": 1002,
+        "imageName": "Emma Stone",
+        "description": "Emily Jean Emma Stone is an American actress. The recipient of numerous accolades, including an Academy Award and a Golden Globe Award, she was the world's highest-paid actress in 2017."
+    },
+    {
+        "name": "Megan Fox",
+        "date_of_birth": "16 May 1986",
+        "city": "Oak Ridge",
+        "state": "Tennessee",
+        "id": 1003,
+        "imageName": "Megan Fox",
+        "description": "Megan Denise Fox is an American actress and model. She began her acting career in 2001, with several minor television and film roles, and played a regular role on the Hope & Faith television sitcom. In 2004, she made her film debut with a role in the teen comedy Confessions of a Teenage Drama Queen."
+    },
+    {
+        "name": "Jessica Alba",
+        "date_of_birth": "28 April 1981",
+        "city": "Pomona",
+        "state": "California",
+        "id": 1004,
+        "imageName": "Jessica Alba",
+        "description": "Jessica Marie Alba is an American actress and businesswoman. She began her television and movie appearances at age 13 in Camp Nowhere and The Secret World of Alex Mack, but rose to prominence at 19, as the lead actress of the television series Dark Angel, for which she received a Golden Globe nomination."
+    },
+    {
+        "name": "Scarlett Johansson",
+        "date_of_birth": "22 November 1984",
+        "city": "Manhattan",
+        "state": "New York",
+        "id": 1014,
+        "imageName": "Scarlett Johansson",
+        "description": "Scarlett Ingrid Johansson is an American actress and singer. The world's highest-paid actress since 2018, she has made multiple appearances in the Forbes Celebrity 100. Her films have grossed over $14.3 billion worldwide, making Johansson the third-highest-grossing box office star of all time."
+    },
+    {
+        "name": "Rachel Weisz",
+        "date_of_birth": "7 March 1970",
+        "city": "Westminster",
+        "state": "London",
+        "id": 1005,
+        "imageName": "Rachel Weisz",
+        "description": "Rachel Hannah Weisz is a British-American actress. She is the recipient of several accolades, including an Academy Award and a British Academy Film Award. Weisz began acting in British stage and television in the early 1990s, and made her film debut in Death Machine."
+    },
+    {
+        "name": "Saoirse Ronan",
+        "date_of_birth": "12 April 1994",
+        "city": "The Bronx",
+        "state": "New York",
+        "id": 1007,
+        "imageName": "Saoirse Ronan",
+        "description": "Saoirse Una Ronan is an Irish and American actress. Primarily noted for her roles in period dramas since adolescence, Ronan has received several awards including a Golden Globe Award and nominations for four Academy Awards and five British Academy Film Awards."
+    },
+    {
+        "name": "Jennifer Lopez",
+        "date_of_birth": "24 July 1969",
+        "city": "Castle Hill",
+        "state": "New York",
+        "id": 1008,
+        "imageName": "Jennifer Lopez",
+        "description": "Jennifer Lynn Lopez, also known by her nickname J.Lo, is an American actress, singer, dancer, fashion designer, producer, and businesswoman. In 1991, Lopez began appearing as a Fly Girl dancer on In Living Color, where she remained a regular until she decided to pursue an acting career in 1993."
+    },
+    {
+        "name": "Emma Watson",
+        "date_of_birth": "15 April 1990",
+        "city": "Paris",
+        "state": "France",
+        "id": 1009,
+        "imageName": "Emma Watson",
+        "description": "Emma Charlotte Duerre Watson is an English actress, model and activist. Born in Paris and brought up in Oxfordshire, Watson attended the Dragon School and trained as an actress at the Oxford branch of Stagecoach Theatre Arts."
+    },
+    {
+        "name": "Penélope Cruz",
+        "date_of_birth": "28 April 1974",
+        "city": "Alcobendas",
+        "state": "Spain",
+        "id": 1010,
+        "imageName": "Penélope Cruz",
+        "description": "Penélope Cruz Sánchez is a Spanish actress and model. Signed by an agent at the age of 15, she made her acting debut at 16 on television, and her feature film debut the following year in Jamón Jamón."
+    },
+    {
+        "name": "Amber Heard",
+        "date_of_birth": "22 April 1986",
+        "city": "Austin",
+        "state": "Texas",
+        "id": 1011,
+        "imageName": "Amber Heard",
+        "description": "DescriptionAmber Laura Heard is an American actress and model. Born and raised in Texas, she made her film debut in a minor supporting role in the sports drama Friday Night Lights, followed by a series of other small roles in television and film."
+    },
+    {
+        "name": "Kate Winslet",
+        "date_of_birth": "5 October 1975",
+        "city": "Reading",
+        "state": "Reading",
+        "id": 1012,
+        "imageName": "Kate Winslet",
+        "description": "DescriptionKate Elizabeth Winslet CBE is an English actress. She is particularly known for her work in period dramas, and is often drawn to portraying angst-ridden women."
+    },
+    {
+        "name": "Jennifer Lawrence",
+        "date_of_birth": "15 August 1990",
+        "city": "Indian Hills",
+        "state": "Kentucky",
+        "id": 1013,
+        "imageName": "Jennifer Lawrence",
+        "description": "DescriptionKate Elizabeth Winslet CBE is an English actress. She is particularly known for her work in period dramas, and is often drawn to portraying angst-ridden women."
+    }
+]
