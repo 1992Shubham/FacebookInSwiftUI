@@ -30,7 +30,66 @@ struct NewsFeeds: View {
             }.padding(.leading, 10)
                 .padding(.trailing, 10)
             Image(userData.imageName)
-                .resizable().scaledToFill().clipped().frame( height: 300)
+                .resizable().scaledToFill().clipped().frame(width: UIScreen.main.bounds.width, height: 300)
+            
+             Divider()
+            
+            HStack {
+                // Live
+                Button(action: {
+                    print("Like")
+                }) {
+                    HStack {
+                        Spacer()
+                        Image("like").resizable().renderingMode(.original)
+                            .frame(width: 20, height: 20)
+                        Text("like")
+                            .font(.subheadline).foregroundColor(.black)
+                        Spacer()
+
+                    }
+                }
+                Divider()
+                    .frame(height: 20)
+                // Photo
+                Button(action: {
+                    print("Comment")
+                }) {
+                    HStack {
+                        Spacer()
+
+                        Image("comment").resizable().renderingMode(.original)
+                            .frame(width: 20, height: 20)
+                        Text("comment")
+                            .font(.subheadline).foregroundColor(.black)
+                        Spacer()
+
+                    }
+                }
+                
+                Divider()
+                    .frame(height: 20)
+
+                
+                // Check_in
+                Button(action: {
+                    print("Share")
+                }) {
+                    HStack {
+                        Spacer()
+
+                        Image("share").resizable().renderingMode(.original)
+                            .frame(width: 20, height: 20)
+                        Text("share")
+                            .font(.subheadline).foregroundColor(.black)
+                        Spacer()
+
+                    }
+                }
+            }
+            
+            Divider()
+
         }
 
     }
